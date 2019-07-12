@@ -20,7 +20,9 @@
 
 ### §1.3 - Officer Privileges
 
-**(a)** At any point during their term, an Officer may propose Actions as described §2.3. The Officer must initiate one and only one poll for each version of the Action.
+**(a)** At any point during their term, the Officer may propose Actions as described §2.3. The Officer must initiate one and only one poll for each version of the Action.
+
+**(b)** The officer may unilaterally impose any rules that do not qualify as Actions. The Membership is bound by them for the duration of the Officer's term.
 
 ### §1.4 - Member Privileges
 
