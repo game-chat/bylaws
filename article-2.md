@@ -14,7 +14,7 @@ An Action is defined as any of the following:
 
 **(b)** The selection of an Acting Officer
 
-**(c)** The involuntary removal of a member
+**(c)** The involuntary removal of a Member
 
 ### §2.3 - Proposing Actions
 
@@ -30,10 +30,12 @@ An Action is defined as any of the following:
 
 ### §2.4 - Voting
 
-**(a)** A vote must be administered publicly, by poll, and its results must be visible to The Membership.
+**(a)** A vote must be administered publicly and by poll. Its results must be visible to The Membership.
 
-**(b)** The poll should be conducted using the Service's native polling tool. If the Service does not provide a native polling tool, the poll may be conducted through text. A Member may cast a vote of agreement in a text poll by responding to the Action's originating message with the text "Yea".
+**(b)** The poll must include the option to abstain.
 
-**(c)** The poll must include the option to abstain.
+**(c)** The poll should be conducted using the Service's native polling tool. If the Service does not provide a native polling tool, the poll may be conducted through text. A Member may cast a vote of agreement in a text poll by responding to the Action's originating message with the text "#Yea", "#Nay", or "#Abstain".
 
-**(d)** The vote completes immediately once all members have responded to the poll.
+**(d)** If the Service includes a mechanism for promoting the poll such that it is always visible (e.g. "pinning"), it must be applied for the poll's duration.
+
+**(e)** The vote completes immediately once all Members have responded to the poll.
